@@ -17,7 +17,7 @@
   <li>Percentage (%)</li>
   <li>Clear (AC) and Delete (DEL) operations</li>
 </ul>
-![Calculator Screenshot](My%20Calculator/calculator.png)
+
 
 <h2>🖼️ Image Gallery</h2>
 <p>🖼️ A responsive image gallery featuring:</p>
